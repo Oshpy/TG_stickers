@@ -1,5 +1,7 @@
 /build/
 
+stickers/
+
 *.env
 
 *.json
